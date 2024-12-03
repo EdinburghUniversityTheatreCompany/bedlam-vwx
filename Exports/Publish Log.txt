@@ -1,0 +1,346 @@
+Publish Started at:     9/10/24  10:35:24
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Exports-PDF\Bedlam Theatre\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                       FILE FORMAT       RESULT                SOURCE FILE
+----                       -----------       --------------------  -------------
+1-Rig Plan                 PDF               (    0.22s)   SUCCESS welcome-week-24
+2-Rig Plan Other Views     PDF               (    0.12s)   SUCCESS welcome-week-24
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               2
+Total files successfully created:          2
+--------------------------------------------------------------
+Publish Ended at:     9/10/24  10:35:25
+
+
+Publish Started at:     9/10/24  10:38:10
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Exports-PDF\Bedlam Theatre\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                       FILE FORMAT       RESULT                SOURCE FILE
+----                       -----------       --------------------  -------------
+1-Rig Plan                 PDF               (    0.28s)   SUCCESS welcome-week-24
+2-Rig Plan Other Views     PDF               (    0.08s)   SUCCESS welcome-week-24
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               2
+Total files successfully created:          2
+--------------------------------------------------------------
+Publish Ended at:     9/10/24  10:38:11
+
+
+Publish Started at:     9/10/24  10:39:24
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Exports-PDF\Bedlam Theatre\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                       FILE FORMAT       RESULT                SOURCE FILE
+----                       -----------       --------------------  -------------
+1-Rig Plan                 PDF               (    0.22s)   SUCCESS welcome-week-24
+2-Rig Plan Other Views     PDF               (    0.08s)   SUCCESS welcome-week-24
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               2
+Total files successfully created:          2
+--------------------------------------------------------------
+Publish Ended at:     9/10/24  10:39:25
+
+
+Publish Started at:     9/10/24  11:54:32
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Exports-PDF\Bedlam Theatre\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                       FILE FORMAT       RESULT                SOURCE FILE
+----                       -----------       --------------------  -------------
+1-Rig Plan                 PDF               (    0.23s)   SUCCESS welcome-week-24
+2-Rig Plan Other Views     PDF               (    0.07s)   SUCCESS welcome-week-24
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               2
+Total files successfully created:          2
+--------------------------------------------------------------
+Publish Ended at:     9/10/24  11:54:33
+
+
+Publish Started at:     9/10/24  11:55:53
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Exports-PDF\Bedlam Theatre\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                       FILE FORMAT       RESULT                SOURCE FILE
+----                       -----------       --------------------  -------------
+1-Rig Plan                 PDF               (    0.25s)   SUCCESS welcome-week-24
+2-Rig Plan Other Views     PDF               (    0.08s)   SUCCESS welcome-week-24
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               2
+Total files successfully created:          2
+--------------------------------------------------------------
+Publish Ended at:     9/10/24  11:55:54
+
+
+Publish Started at:     9/11/24  1:43:42
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Exports-PDF\Bedlam Theatre\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                       FILE FORMAT       RESULT                SOURCE FILE
+----                       -----------       --------------------  -------------
+1-Rig Plan                 PDF               (    0.35s)   SUCCESS welcome-week-24
+2-Rig Plan Other Views     PDF               (    0.08s)   SUCCESS welcome-week-24
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               2
+Total files successfully created:          2
+--------------------------------------------------------------
+Publish Ended at:     9/11/24  1:43:43
+
+
+Publish Started at:     11/3/24  23:07:39
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Exports-PDF\Bedlam Theatre\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                   FILE FORMAT       RESULT                SOURCE FILE
+----                   -----------       --------------------  -------------
+4-Stage Dimensions     PDF               (    1.73s)   SUCCESS bedlam-theatre
+5-Seating              PDF               (    0.40s)   SUCCESS bedlam-theatre
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               2
+Total files successfully created:          2
+--------------------------------------------------------------
+Publish Ended at:     11/3/24  23:07:41
+
+
+Publish Started at:     11/3/24  23:08:05
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Exports-PDF\Bedlam Theatre\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                   FILE FORMAT       RESULT                SOURCE FILE
+----                   -----------       --------------------  -------------
+4-Stage Dimensions     PDF               (    1.58s)   SUCCESS bedlam-theatre
+5-Seating              PDF               (    1.40s)   SUCCESS bedlam-theatre
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               2
+Total files successfully created:          2
+--------------------------------------------------------------
+Publish Ended at:     11/3/24  23:08:09
+
+
+Publish Started at:     11/3/24  23:08:31
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Exports-PDF\Bedlam Theatre\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                   FILE FORMAT       RESULT                SOURCE FILE
+----                   -----------       --------------------  -------------
+4-Stage Dimensions     PDF               (    1.70s)   SUCCESS bedlam-theatre
+5-Seating              PDF               (    1.45s)   SUCCESS bedlam-theatre
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               2
+Total files successfully created:          2
+--------------------------------------------------------------
+Publish Ended at:     11/3/24  23:08:35
+
+
+Publish Started at:     11/3/24  23:16:37
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Exports-PDF\Bedlam Theatre\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                   FILE FORMAT       RESULT                SOURCE FILE
+----                   -----------       --------------------  -------------
+4-Stage Dimensions     PDF               (    1.77s)   SUCCESS bedlam-theatre
+5-Seating              PDF               (    1.45s)   SUCCESS bedlam-theatre
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               2
+Total files successfully created:          2
+--------------------------------------------------------------
+Publish Ended at:     11/3/24  23:16:41
+
+
+Publish Started at:     11/7/24  18:02:59
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Exports-PDF\Bedlam Theatre\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                FILE FORMAT       RESULT                SOURCE FILE
+----                -----------       --------------------  -------------
+2-Pygmalion Set     PDF               (    1.77s)   SUCCESS pygmalion
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               1
+Total files successfully created:          1
+--------------------------------------------------------------
+Publish Ended at:     11/7/24  18:03:00
+
+
+Publish Started at:     11/7/24  18:07:41
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Exports-PDF\Bedlam Theatre\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                FILE FORMAT       RESULT                SOURCE FILE
+----                -----------       --------------------  -------------
+2-Pygmalion Set     PDF               (    0.47s)   SUCCESS pygmalion
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               1
+Total files successfully created:          1
+--------------------------------------------------------------
+Publish Ended at:     11/7/24  18:07:42
+
+

@@ -1,0 +1,2121 @@
+Light,Martin JEM Compact Hazer Pro,-1,-2,Martin JEM Compact Hazer Pro,Martin JEM Compact Hazer Pro,,,,,,False,,,,0,0,,1042 W,Hazer somewhere on stage,,,,,190,60,1/190,1,190,3,,,A,,,,,,,0,,0,0,,0.00°,0.00°,0.00°,0.00°,11.02 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM JEM Compact Hazer Pro,BEDLAM JEM Compact Hazer Pro,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-252.4,772,35.3,"104.275081,789.017477,40.000000,-90.000000,-21.398846,4.101730,0.000000,0.000000,0.000000,-66.178577,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,1,0,1,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1135.1.1.0.0,,"{
+	""handles"" : [
+		{
+			""index"" : 1,
+			""override"" : true,
+			""x"" : -213.98845628522940387,
+			""y"" : 41.017298055156061309
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -661.78577063891498256
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,0,11022.294591,0,0,0,0,0,0
+Light,Martin JEM Compact Hazer Pro,-1,-2,Martin JEM Compact Hazer Pro,Martin JEM Compact Hazer Pro,,,,,,False,,,,0,0,,1042 W,Hazer somewhere on stage,,,,,190,60,1/190,1,190,3,,,A,,,,,,,0,,0,0,,0.00°,0.00°,0.00°,0.00°,11.02 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM JEM Compact Hazer Pro,BEDLAM JEM Compact Hazer Pro,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-252.4,772,35.3,"104.275081,789.017477,40.000000,-90.000000,-21.398846,4.101730,0.000000,0.000000,0.000000,-66.178577,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,1,0,1,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1135.1.1.0.0,,"{
+	""handles"" : [
+		{
+			""index"" : 1,
+			""override"" : true,
+			""x"" : -213.98845628522940387,
+			""y"" : 41.017298055156061309
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -661.78577063891498256
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,0,11022.294591,0,0,0,0,0,0
+Light,Martin JEM Compact Hazer Pro,-1,-2,Martin JEM Compact Hazer Pro,Martin JEM Compact Hazer Pro,,,,,,False,,,,0,0,,1042 W,Hazer somewhere on stage,,,,,190,60,1/190,1,190,3,,,A,,,,,,,0,,0,0,,0.00°,0.00°,0.00°,0.00°,11.02 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM JEM Compact Hazer Pro,BEDLAM JEM Compact Hazer Pro,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-252.4,772,35.3,"104.275081,789.017477,40.000000,-90.000000,-21.398846,4.101730,0.000000,0.000000,0.000000,-66.178577,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,1,0,1,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1135.1.1.0.0,,"{
+	""handles"" : [
+		{
+			""index"" : 1,
+			""override"" : true,
+			""x"" : -213.98845628522940387,
+			""y"" : 41.017298055156061309
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -661.78577063891498256
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,0,11022.294591,0,0,0,0,0,0
+Light,Altman PAR 64 MFL,-1,-2,Altman PAR 64 MFL,Altman PAR 64 MFL,,,,Altman Par64 MFL.lit,,False,Altman PAR 64 MFL,,,0,0,,1000 W,Lewis Pub Quiz Light,,,,,45,44,1/45,1,45,0,,,A,,,,,,,0,,0,0,254mm,22.00°,45.00°,22.00°,45.00°,3.63 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM PAR64 MFL,BEDLAM PAR64 MFL,False,Generic,Generic,None,False,False,False,False,False,Center,-46.59°,66.23°,326.3,False,180,0,False,12.91,0.00°,66.23°,23.77°,23.77°,46.59°,,,,Alt PAR 64,PAR 64 MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-142,1069.3,-8.8,"-142.000000,1069.315180,31.160190,12.910000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1159.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,3628.73896,0,0,0,0,0,0
+Light,Altman PAR 64 MFL,-1,-2,Altman PAR 64 MFL,Altman PAR 64 MFL,,,,Altman Par64 MFL.lit,Altman Par64 MFL.lit,False,Altman PAR 64 MFL,,,0,0,,1000 W,Lewis Pub Quiz Light,,,,,45,44,1/45,1,45,1,,,A,,,,,,,0,,0,0,254mm,22.00°,45.00°,22.00°,45.00°,3.63 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM PAR64 MFL,BEDLAM PAR64 MFL,False,Generic,Generic,None,False,False,False,False,False,Center,-46.59°,66.23°,326.3,False,180,0,False,12.91,0.00°,66.23°,23.77°,23.77°,46.59°,,,,Alt PAR 64,PAR 64 MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-142,1069.3,-8.8,"-142.000000,1069.315180,31.160190,12.910000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1159.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,3628.73896,0,0,0,0,0,0
+Light,Altman PAR 64 MFL,-1,-2,Altman PAR 64 MFL,Altman PAR 64 MFL,,,,Altman Par64 MFL.lit,Altman Par64 MFL.lit,False,Altman PAR 64 MFL,,,0,0,,1000 W,Lewis Pub Quiz Light,,,,,45,44,1/45,1,45,1,,,A,,,,,,,0,,0,0,254mm,22.00°,45.00°,22.00°,45.00°,3.63 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM PAR64 MFL,BEDLAM PAR64 MFL,False,Generic,Generic,None,False,False,False,False,False,Center,-46.59°,66.23°,326.3,False,180,0,False,12.91,0.00°,66.23°,23.77°,23.77°,46.59°,,,,Alt PAR 64,PAR 64 MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-142,1069.3,-8.8,"-142.000000,1069.315180,31.160190,12.910000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1159.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,3628.73896,0,0,0,0,0,0
+Light,Altman PAR 64 MFL,-1,-2,Altman PAR 64 MFL,Altman PAR 64 MFL,,,,Altman Par64 MFL.lit,,False,Altman PAR 64 MFL,,,0,0,,1000 W,Lewis Pub Quiz Light,,,,,46,45,1/46,1,46,0,,,A,,,,,,,0,,0,0,254mm,22.00°,45.00°,22.00°,45.00°,3.63 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM PAR64 MFL,BEDLAM PAR64 MFL,False,Generic,Generic,None,False,False,False,False,False,Center,46.60°,66.23°,326.4,False,180,0,False,-12.91,0.00°,66.23°,23.77°,23.77°,46.60°,,,,Alt PAR 64,PAR 64 MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,372.7,1069.3,-8.8,"372.677488,1069.315180,31.160190,-12.910000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1160.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,3628.73896,0,0,0,0,0,0
+Light,Altman PAR 64 MFL,-1,-2,Altman PAR 64 MFL,Altman PAR 64 MFL,,,,Altman Par64 MFL.lit,Altman Par64 MFL.lit,False,Altman PAR 64 MFL,,,0,0,,1000 W,Lewis Pub Quiz Light,,,,,46,45,1/46,1,46,1,,,A,,,,,,,0,,0,0,254mm,22.00°,45.00°,22.00°,45.00°,3.63 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM PAR64 MFL,BEDLAM PAR64 MFL,False,Generic,Generic,None,False,False,False,False,False,Center,46.60°,66.23°,326.4,False,180,0,False,-12.91,0.00°,66.23°,23.77°,23.77°,46.60°,,,,Alt PAR 64,PAR 64 MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,372.7,1069.3,-8.8,"372.677488,1069.315180,31.160190,-12.910000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1160.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,3628.73896,0,0,0,0,0,0
+Light,Altman PAR 64 MFL,-1,-2,Altman PAR 64 MFL,Altman PAR 64 MFL,,,,Altman Par64 MFL.lit,Altman Par64 MFL.lit,False,Altman PAR 64 MFL,,,0,0,,1000 W,Lewis Pub Quiz Light,,,,,46,45,1/46,1,46,1,,,A,,,,,,,0,,0,0,254mm,22.00°,45.00°,22.00°,45.00°,3.63 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM PAR64 MFL,BEDLAM PAR64 MFL,False,Generic,Generic,None,False,False,False,False,False,Center,46.60°,66.23°,326.4,False,180,0,False,-12.91,0.00°,66.23°,23.77°,23.77°,46.60°,,,,Alt PAR 64,PAR 64 MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,372.7,1069.3,-8.8,"372.677488,1069.315180,31.160190,-12.910000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1160.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,3628.73896,0,0,0,0,0,0
+Light,ETC Source 4 Jr Zoom,-1,-2,ETC Source 4 Jr Zoom,ETC Source 4 Jr Zoom,,,,ETC Source 4 Jr Zoom.lit,ETC Source 4 Jr Zoom.lit,False,ETC Source4 Jr Zoom ,,,0,0,,575W,,,,,,29,41,1/29,1,29,1,,,A,,,,,,,0,,0,0,190mm,28.00°,50.00°,21.00°,40.00°,4.54 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 Jr Zoom,BEDLAM Source 4 Jr Zoom,False,Generic,Generic,None,False,False,False,False,False,SR Spot,-2.94°,52.94°,362.2,False,0,0,False,0,0.00°,52.94°,37.06°,37.06°,2.94°,,,,ETC S4 Jr Zoom,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-93.8,469,0,"-93.825473,469.042558,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1031.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4535.9237,0,0,0,0,0,0
+Light,ETC Source 4 Jr Zoom,-1,-2,ETC Source 4 Jr Zoom,ETC Source 4 Jr Zoom,,,,ETC Source 4 Jr Zoom.lit,ETC Source 4 Jr Zoom.lit,False,ETC Source4 Jr Zoom ,,,0,0,,575W,,,,,,29,41,1/29,1,29,1,,,A,,,,,,,0,,0,0,190mm,28.00°,50.00°,21.00°,40.00°,4.54 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 Jr Zoom,BEDLAM Source 4 Jr Zoom,False,Generic,Generic,None,False,False,False,False,False,SR Spot,-2.94°,52.94°,362.2,False,0,0,False,0,0.00°,52.94°,37.06°,37.06°,2.94°,,,,ETC S4 Jr Zoom,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-93.8,469,0,"-93.825473,469.042558,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1031.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4535.9237,0,0,0,0,0,0
+Light,ETC Source 4 Jr Zoom,-1,-2,ETC Source 4 Jr Zoom,ETC Source 4 Jr Zoom,,,,ETC Source 4 Jr Zoom.lit,ETC Source 4 Jr Zoom.lit,False,ETC Source4 Jr Zoom ,,,0,0,,575W,,,,,,29,41,1/29,1,29,1,,,A,,,,,,,0,,0,0,190mm,28.00°,50.00°,21.00°,40.00°,4.54 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 Jr Zoom,BEDLAM Source 4 Jr Zoom,False,Generic,Generic,None,False,False,False,False,False,SR Spot,-2.94°,52.94°,362.2,False,0,0,False,0,0.00°,52.94°,37.06°,37.06°,2.94°,,,,ETC S4 Jr Zoom,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-93.8,469,0,"-93.825473,469.042558,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1031.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4535.9237,0,0,0,0,0,0
+Light,ETC Source 4 Jr Zoom,-1,-2,ETC Source 4 Jr Zoom,ETC Source 4 Jr Zoom,,,,ETC Source 4 Jr Zoom.lit,ETC Source 4 Jr Zoom.lit,False,ETC Source4 Jr Zoom ,,,0,0,,575W,,,,,,30,42,1/30,1,30,1,,,A,,,,,,,0,,0,0,190mm,28.00°,50.00°,21.00°,40.00°,4.54 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 Jr Zoom,BEDLAM Source 4 Jr Zoom,False,Generic,Generic,None,False,False,False,False,False,CS Spot,0.10°,51.52°,350.8,False,0,0,False,0,0.00°,51.52°,38.48°,38.48°,0.10°,,,,ETC S4 Jr Zoom,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115.3,483.1,0,"102.447198,483.069703,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1033.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4535.9237,0,0,0,0,0,0
+Light,ETC Source 4 Jr Zoom,-1,-2,ETC Source 4 Jr Zoom,ETC Source 4 Jr Zoom,,,,ETC Source 4 Jr Zoom.lit,ETC Source 4 Jr Zoom.lit,False,ETC Source4 Jr Zoom ,,,0,0,,575W,,,,,,30,42,1/30,1,30,1,,,A,,,,,,,0,,0,0,190mm,28.00°,50.00°,21.00°,40.00°,4.54 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 Jr Zoom,BEDLAM Source 4 Jr Zoom,False,Generic,Generic,None,False,False,False,False,False,CS Spot,0.10°,51.52°,350.8,False,0,0,False,0,0.00°,51.52°,38.48°,38.48°,0.10°,,,,ETC S4 Jr Zoom,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115.3,483.1,0,"102.447198,483.069703,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1033.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4535.9237,0,0,0,0,0,0
+Light,ETC Source 4 Jr Zoom,-1,-2,ETC Source 4 Jr Zoom,ETC Source 4 Jr Zoom,,,,ETC Source 4 Jr Zoom.lit,ETC Source 4 Jr Zoom.lit,False,ETC Source4 Jr Zoom ,,,0,0,,575W,,,,,,30,42,1/30,1,30,1,,,A,,,,,,,0,,0,0,190mm,28.00°,50.00°,21.00°,40.00°,4.54 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 Jr Zoom,BEDLAM Source 4 Jr Zoom,False,Generic,Generic,None,False,False,False,False,False,CS Spot,0.10°,51.52°,350.8,False,0,0,False,0,0.00°,51.52°,38.48°,38.48°,0.10°,,,,ETC S4 Jr Zoom,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115.3,483.1,0,"102.447198,483.069703,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1033.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4535.9237,0,0,0,0,0,0
+Light,ETC Source 4 Jr Zoom,-1,-2,ETC Source 4 Jr Zoom,ETC Source 4 Jr Zoom,,,,ETC Source 4 Jr Zoom.lit,ETC Source 4 Jr Zoom.lit,False,ETC Source4 Jr Zoom ,,,0,0,,575W,,,,,,31,43,1/31,1,31,1,,,A,,,,,,,0,,0,0,190mm,28.00°,50.00°,21.00°,40.00°,4.54 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 Jr Zoom,BEDLAM Source 4 Jr Zoom,False,Generic,Generic,None,False,False,False,False,False,SL Spot,-2.13°,52.92°,362,False,0,0,False,0,0.00°,52.92°,37.08°,37.08°,2.13°,,,,ETC S4 Jr Zoom,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,299,469.1,0,"298.964873,469.069703,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1035.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4535.9237,0,0,0,0,0,0
+Light,ETC Source 4 Jr Zoom,-1,-2,ETC Source 4 Jr Zoom,ETC Source 4 Jr Zoom,,,,ETC Source 4 Jr Zoom.lit,ETC Source 4 Jr Zoom.lit,False,ETC Source4 Jr Zoom ,,,0,0,,575W,,,,,,31,43,1/31,1,31,1,,,A,,,,,,,0,,0,0,190mm,28.00°,50.00°,21.00°,40.00°,4.54 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 Jr Zoom,BEDLAM Source 4 Jr Zoom,False,Generic,Generic,None,False,False,False,False,False,SL Spot,-2.13°,52.92°,362,False,0,0,False,0,0.00°,52.92°,37.08°,37.08°,2.13°,,,,ETC S4 Jr Zoom,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,299,469.1,0,"298.964873,469.069703,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1035.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4535.9237,0,0,0,0,0,0
+Light,ETC Source 4 Jr Zoom,-1,-2,ETC Source 4 Jr Zoom,ETC Source 4 Jr Zoom,,,,ETC Source 4 Jr Zoom.lit,ETC Source 4 Jr Zoom.lit,False,ETC Source4 Jr Zoom ,,,0,0,,575W,,,,,,31,43,1/31,1,31,1,,,A,,,,,,,0,,0,0,190mm,28.00°,50.00°,21.00°,40.00°,4.54 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 Jr Zoom,BEDLAM Source 4 Jr Zoom,False,Generic,Generic,None,False,False,False,False,False,SL Spot,-2.13°,52.92°,362,False,0,0,False,0,0.00°,52.92°,37.08°,37.08°,2.13°,,,,ETC S4 Jr Zoom,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,299,469.1,0,"298.964873,469.069703,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1035.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4535.9237,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,,,1,1,1/1,1,1,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USR Wash,-3.38°,63.00°,500.4,False,0,0,False,0,0.00°,63.00°,27.00°,27.00°,3.38°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-105.3,570.6,0,"-105.260277,570.649549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1038.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,,,1,1,1/1,1,1,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USR Wash,-3.38°,63.00°,500.4,False,0,0,False,0,0.00°,63.00°,27.00°,27.00°,3.38°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-105.3,570.6,0,"-105.260277,570.649549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1038.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,,,1,1,1/1,1,1,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USR Wash,-3.38°,63.00°,500.4,False,0,0,False,0,0.00°,63.00°,27.00°,27.00°,3.38°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-105.3,570.6,0,"-105.260277,570.649549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1038.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,L201,,7,11,1/7,1,7,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USR Wash,1.61°,62.97°,499.8,False,0,0,False,0,0.00°,62.97°,27.03°,27.03°,1.61°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66.5,570.6,0,"-66.453390,570.649549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1040.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,L201,,7,11,1/7,1,7,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USR Wash,1.61°,62.97°,499.8,False,0,0,False,0,0.00°,62.97°,27.03°,27.03°,1.61°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66.5,570.6,0,"-66.453390,570.649549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1040.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,L201,,7,11,1/7,1,7,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USR Wash,1.61°,62.97°,499.8,False,0,0,False,0,0.00°,62.97°,27.03°,27.03°,1.61°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66.5,570.6,0,"-66.453390,570.649549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1040.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,,,2,2,1/2,1,2,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USC Wash,-2.67°,61.19°,471.3,False,0,0,False,0,0.00°,61.19°,28.81°,28.81°,2.67°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,570.5,0,"96.044921,570.500000,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1044.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,,,2,2,1/2,1,2,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USC Wash,-2.67°,61.19°,471.3,False,0,0,False,0,0.00°,61.19°,28.81°,28.81°,2.67°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,570.5,0,"96.044921,570.500000,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1044.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,,,2,2,1/2,1,2,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USC Wash,-2.67°,61.19°,471.3,False,0,0,False,0,0.00°,61.19°,28.81°,28.81°,2.67°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,570.5,0,"96.044921,570.500000,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1044.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,L201,,9,13,1/9,1,9,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USL Wash,3.39°,63.00°,500.4,False,0,0,False,0,0.00°,63.00°,27.00°,27.00°,3.39°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,335.9,570.6,0,"335.937765,570.649549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1045.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,L201,,9,13,1/9,1,9,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USL Wash,3.39°,63.00°,500.4,False,0,0,False,0,0.00°,63.00°,27.00°,27.00°,3.39°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,335.9,570.6,0,"335.937765,570.649549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1045.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,L201,,9,13,1/9,1,9,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USL Wash,3.39°,63.00°,500.4,False,0,0,False,0,0.00°,63.00°,27.00°,27.00°,3.39°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,335.9,570.6,0,"335.937765,570.649549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1045.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,,,3,3,1/3,1,3,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USL Wash,-1.61°,62.97°,499.8,False,0,0,False,0,0.00°,62.97°,27.03°,27.03°,1.61°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,297.1,570.6,0,"297.130878,570.649549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1046.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,,,3,3,1/3,1,3,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USL Wash,-1.61°,62.97°,499.8,False,0,0,False,0,0.00°,62.97°,27.03°,27.03°,1.61°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,297.1,570.6,0,"297.130878,570.649549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1046.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,,,3,3,1/3,1,3,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USL Wash,-1.61°,62.97°,499.8,False,0,0,False,0,0.00°,62.97°,27.03°,27.03°,1.61°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,297.1,570.6,0,"297.130878,570.649549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1046.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,L201,,8,12,1/8,1,8,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USC Wash,2.68°,61.19°,471.3,False,0,0,False,0,0.00°,61.19°,28.81°,28.81°,2.68°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134.6,570.5,0,"134.632567,570.500000,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1047.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,L201,,8,12,1/8,1,8,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USC Wash,2.68°,61.19°,471.3,False,0,0,False,0,0.00°,61.19°,28.81°,28.81°,2.68°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134.6,570.5,0,"134.632567,570.500000,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1047.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,L201,,8,12,1/8,1,8,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USC Wash,2.68°,61.19°,471.3,False,0,0,False,0,0.00°,61.19°,28.81°,28.81°,2.68°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134.6,570.5,0,"134.632567,570.500000,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1047.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,,,4,4,1/4,1,4,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSR Wash,-3.48°,62.30°,488.7,False,0,0,False,0,0.00°,62.30°,27.70°,27.70°,3.48°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-105.3,376.7,0,"-105.260277,376.731448,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1057.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,,,4,4,1/4,1,4,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSR Wash,-3.48°,62.30°,488.7,False,0,0,False,0,0.00°,62.30°,27.70°,27.70°,3.48°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-105.3,376.7,0,"-105.260277,376.731448,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1057.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,,,4,4,1/4,1,4,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSR Wash,-3.48°,62.30°,488.7,False,0,0,False,0,0.00°,62.30°,27.70°,27.70°,3.48°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-105.3,376.7,0,"-105.260277,376.731448,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1057.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,L201,,11,14,1/11,1,11,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSR Wash,1.66°,62.27°,488.1,False,0,0,False,0,0.00°,62.27°,27.73°,27.73°,1.66°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66.5,376.7,0,"-66.453390,376.731448,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1059.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,L201,,11,14,1/11,1,11,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSR Wash,1.66°,62.27°,488.1,False,0,0,False,0,0.00°,62.27°,27.73°,27.73°,1.66°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66.5,376.7,0,"-66.453390,376.731448,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1059.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,L201,,11,14,1/11,1,11,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSR Wash,1.66°,62.27°,488.1,False,0,0,False,0,0.00°,62.27°,27.73°,27.73°,1.66°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66.5,376.7,0,"-66.453390,376.731448,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1059.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,,,5,5,1/5,1,5,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSC Wash,-5.87°,62.38°,489.9,False,0,0,False,0,0.00°,62.38°,27.62°,27.62°,5.87°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.9,376.8,0,"70.900169,376.849549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1058.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,,,5,5,1/5,1,5,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSC Wash,-5.87°,62.38°,489.9,False,0,0,False,0,0.00°,62.38°,27.62°,27.62°,5.87°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.9,376.8,0,"70.900169,376.849549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1058.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,,,5,5,1/5,1,5,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSC Wash,-5.87°,62.38°,489.9,False,0,0,False,0,0.00°,62.38°,27.62°,27.62°,5.87°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.9,376.8,0,"70.900169,376.849549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1058.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,L201,,13,16,1/13,1,13,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSL Wash,3.49°,62.30°,488.7,False,0,0,False,0,0.00°,62.30°,27.70°,27.70°,3.49°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,335.9,376.7,0,"335.937765,376.731448,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1055.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,L201,,13,16,1/13,1,13,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSL Wash,3.49°,62.30°,488.7,False,0,0,False,0,0.00°,62.30°,27.70°,27.70°,3.49°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,335.9,376.7,0,"335.937765,376.731448,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1055.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,L201,,13,16,1/13,1,13,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSL Wash,3.49°,62.30°,488.7,False,0,0,False,0,0.00°,62.30°,27.70°,27.70°,3.49°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,335.9,376.7,0,"335.937765,376.731448,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1055.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,,,6,6,1/6,1,6,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSL Wash,-1.65°,62.27°,488.1,False,0,0,False,0,0.00°,62.27°,27.73°,27.73°,1.65°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,297.1,376.7,0,"297.130878,376.731448,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1054.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,,,6,6,1/6,1,6,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSL Wash,-1.65°,62.27°,488.1,False,0,0,False,0,0.00°,62.27°,27.73°,27.73°,1.65°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,297.1,376.7,0,"297.130878,376.731448,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1054.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,,,6,6,1/6,1,6,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSL Wash,-1.65°,62.27°,488.1,False,0,0,False,0,0.00°,62.27°,27.73°,27.73°,1.65°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,297.1,376.7,0,"297.130878,376.731448,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1054.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,L201,,12,15,1/12,1,12,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSC Wash,5.87°,62.38°,489.9,False,0,0,False,0,0.00°,62.38°,27.62°,27.62°,5.87°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,159.7,376.8,0,"159.703291,376.849549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1060.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,L201,,12,15,1/12,1,12,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSC Wash,5.87°,62.38°,489.9,False,0,0,False,0,0.00°,62.38°,27.62°,27.62°,5.87°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,159.7,376.8,0,"159.703291,376.849549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1060.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,"{
+	""data"" : [
+		[
+			{
+				""number"" : ""L201"",
+				""r"" : 195,
+				""g"" : 225,
+				""b"" : 250,
+				""a"" : 0
+			}
+		]
+	]
+}",,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,5,,L201,,12,15,1/12,1,12,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,DSC Wash,5.87°,62.38°,489.9,False,0,0,False,0,0.00°,62.38°,27.62°,27.62°,5.87°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,159.7,376.8,0,"159.703291,376.849549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"50115,57825,64250",1060.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,B,,L003,,21,26,1/21,1,21,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,DSL Side,0.00°,40.79°,290.8,False,0,0,False,-90,0.00°,40.79°,49.21°,49.21°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.6,708.3,-5,"7.601730,708.271200,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1063.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,B,,L003,,21,26,1/21,1,21,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,DSL Side,0.00°,40.79°,290.8,False,0,0,False,-90,0.00°,40.79°,49.21°,49.21°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.6,708.3,-5,"7.601730,708.271200,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1063.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,B,,L003,,21,26,1/21,1,21,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,DSL Side,0.00°,40.79°,290.8,False,0,0,False,-90,0.00°,40.79°,49.21°,49.21°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.6,708.3,-5,"7.601730,708.271200,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1063.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,Prolights StudioCOB FC 150,-1,-2,Prolights StudioCOB FC 150,Prolights StudioCOB FC 150,,,,,,False,,Prolights@StudioCobFC-30.gdtf,8ch,0,0,,155 W,,A,,,,60,51,1/60,1,60,8,,,A,,,,,,,0,,0,0,,80.00°,80.00°,60.00°,60.00°,4.49 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM StudioCOB FC 150,BEDLAM StudioCOB FC 150,False,LED,LED,None,False,False,False,False,False,Center,56.82°,56.10°,377.3,False,0,0,True,-180,225.00°,56.10°,33.90°,33.90°,56.82°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,1089.2,-5,"-146.798270,1089.159438,435.017534,180.000000,0.000000,0.000000,0.000000,0.000000,-0.000000,-46.567981,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1079.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : -8.8107299234252423048e-13,
+			""y"" : -465.6798058768924875
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,4490.564463,0,0,0,0,0,0
+Light,Prolights StudioCOB FC 150,-1,-2,Prolights StudioCOB FC 150,Prolights StudioCOB FC 150,,,,,,False,,Prolights@StudioCobFC-30.gdtf,8ch,0,0,,155 W,,A,,,,60,51,1/60,1,60,8,,,A,,,,,,,0,,0,0,,80.00°,80.00°,60.00°,60.00°,4.49 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM StudioCOB FC 150,BEDLAM StudioCOB FC 150,False,LED,LED,None,False,False,False,False,False,Center,56.82°,56.10°,377.3,False,0,0,True,-180,225.00°,56.10°,33.90°,33.90°,56.82°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,1089.2,-5,"-146.798270,1089.159438,435.017534,180.000000,0.000000,0.000000,0.000000,0.000000,-0.000000,-46.567981,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1079.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : -8.8107299234252423048e-13,
+			""y"" : -465.6798058768924875
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,4490.564463,0,0,0,0,0,0
+Light,Prolights StudioCOB FC 150,-1,-2,Prolights StudioCOB FC 150,Prolights StudioCOB FC 150,,,,,,False,,Prolights@StudioCobFC-30.gdtf,8ch,0,0,,155 W,,A,,,,60,51,1/60,1,60,8,,,A,,,,,,,0,,0,0,,80.00°,80.00°,60.00°,60.00°,4.49 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM StudioCOB FC 150,BEDLAM StudioCOB FC 150,False,LED,LED,None,False,False,False,False,False,Center,56.82°,56.10°,377.3,False,0,0,True,-180,225.00°,56.10°,33.90°,33.90°,56.82°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,1089.2,-5,"-146.798270,1089.159438,435.017534,180.000000,0.000000,0.000000,0.000000,0.000000,-0.000000,-46.567981,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1079.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : -8.8107299234252423048e-13,
+			""y"" : -465.6798058768924875
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,4490.564463,0,0,0,0,0,0
+Light,Prolights StudioCOB FC 150,-1,-2,Prolights StudioCOB FC 150,Prolights StudioCOB FC 150,,,,,,False,,Prolights@StudioCobFC-30.gdtf,8ch,0,0,,155 W,,A,,,,80,53,1/80,1,80,8,,,A,,,,,,,0,,0,0,,80.00°,80.00°,60.00°,60.00°,4.49 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM StudioCOB FC 150,BEDLAM StudioCOB FC 150,False,LED,LED,None,False,False,False,False,False,Center,46.57°,61.10°,435.5,False,0,0,True,-90,-45.00°,61.10°,28.90°,28.90°,46.57°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,640.9,-5,"-146.798270,640.893364,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1081.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4490.564463,0,0,0,0,0,0
+Light,Prolights StudioCOB FC 150,-1,-2,Prolights StudioCOB FC 150,Prolights StudioCOB FC 150,,,,,,False,,Prolights@StudioCobFC-30.gdtf,8ch,0,0,,155 W,,A,,,,80,53,1/80,1,80,8,,,A,,,,,,,0,,0,0,,80.00°,80.00°,60.00°,60.00°,4.49 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM StudioCOB FC 150,BEDLAM StudioCOB FC 150,False,LED,LED,None,False,False,False,False,False,Center,46.57°,61.10°,435.5,False,0,0,True,-90,-45.00°,61.10°,28.90°,28.90°,46.57°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,640.9,-5,"-146.798270,640.893364,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1081.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4490.564463,0,0,0,0,0,0
+Light,Prolights StudioCOB FC 150,-1,-2,Prolights StudioCOB FC 150,Prolights StudioCOB FC 150,,,,,,False,,Prolights@StudioCobFC-30.gdtf,8ch,0,0,,155 W,,A,,,,80,53,1/80,1,80,8,,,A,,,,,,,0,,0,0,,80.00°,80.00°,60.00°,60.00°,4.49 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM StudioCOB FC 150,BEDLAM StudioCOB FC 150,False,LED,LED,None,False,False,False,False,False,Center,46.57°,61.10°,435.5,False,0,0,True,-90,-45.00°,61.10°,28.90°,28.90°,46.57°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,640.9,-5,"-146.798270,640.893364,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1081.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4490.564463,0,0,0,0,0,0
+Light,Prolights StudioCOB FC 150,-1,-2,Prolights StudioCOB FC 150,Prolights StudioCOB FC 150,,,,,,False,,Prolights@StudioCobFC-30.gdtf,8ch,0,0,,155 W,,D,,,,90,54,1/90,1,90,8,,,A,,,,,,,0,,0,0,,80.00°,80.00°,60.00°,60.00°,4.49 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM StudioCOB FC 150,BEDLAM StudioCOB FC 150,False,LED,LED,None,False,False,False,False,False,Center,-46.57°,61.10°,435.5,False,0,0,True,90,45.00°,61.10°,28.90°,28.90°,46.57°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,640.9,-5,"377.401730,640.896990,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1083.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4490.564463,0,0,0,0,0,0
+Light,Prolights StudioCOB FC 150,-1,-2,Prolights StudioCOB FC 150,Prolights StudioCOB FC 150,,,,,,False,,Prolights@StudioCobFC-30.gdtf,8ch,0,0,,155 W,,D,,,,90,54,1/90,1,90,8,,,A,,,,,,,0,,0,0,,80.00°,80.00°,60.00°,60.00°,4.49 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM StudioCOB FC 150,BEDLAM StudioCOB FC 150,False,LED,LED,None,False,False,False,False,False,Center,-46.57°,61.10°,435.5,False,0,0,True,90,45.00°,61.10°,28.90°,28.90°,46.57°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,640.9,-5,"377.401730,640.896990,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1083.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4490.564463,0,0,0,0,0,0
+Light,Prolights StudioCOB FC 150,-1,-2,Prolights StudioCOB FC 150,Prolights StudioCOB FC 150,,,,,,False,,Prolights@StudioCobFC-30.gdtf,8ch,0,0,,155 W,,D,,,,90,54,1/90,1,90,8,,,A,,,,,,,0,,0,0,,80.00°,80.00°,60.00°,60.00°,4.49 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM StudioCOB FC 150,BEDLAM StudioCOB FC 150,False,LED,LED,None,False,False,False,False,False,Center,-46.57°,61.10°,435.5,False,0,0,True,90,45.00°,61.10°,28.90°,28.90°,46.57°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,640.9,-5,"377.401730,640.896990,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1083.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4490.564463,0,0,0,0,0,0
+Light,Prolights StudioCOB FC 150,-1,-2,Prolights StudioCOB FC 150,Prolights StudioCOB FC 150,,,,,,False,,Prolights@StudioCobFC-30.gdtf,8ch,0,0,,155 W,,D,,,,70,52,1/70,1,70,8,,,A,,,,,,,0,,0,0,,80.00°,80.00°,60.00°,60.00°,4.49 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM StudioCOB FC 150,BEDLAM StudioCOB FC 150,False,LED,LED,None,False,False,False,False,False,Center,-56.82°,56.10°,377.3,False,0,0,True,180,135.00°,56.10°,33.90°,33.90°,56.82°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,1089.2,-5,"377.401730,1089.159438,435.017534,180.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-44.448186,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1084.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 3.4106051316484808922e-13,
+			""y"" : -444.48185617468590181
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,4490.564463,0,0,0,0,0,0
+Light,Prolights StudioCOB FC 150,-1,-2,Prolights StudioCOB FC 150,Prolights StudioCOB FC 150,,,,,,False,,Prolights@StudioCobFC-30.gdtf,8ch,0,0,,155 W,,D,,,,70,52,1/70,1,70,8,,,A,,,,,,,0,,0,0,,80.00°,80.00°,60.00°,60.00°,4.49 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM StudioCOB FC 150,BEDLAM StudioCOB FC 150,False,LED,LED,None,False,False,False,False,False,Center,-56.82°,56.10°,377.3,False,0,0,True,180,135.00°,56.10°,33.90°,33.90°,56.82°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,1089.2,-5,"377.401730,1089.159438,435.017534,180.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-44.448186,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1084.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 3.4106051316484808922e-13,
+			""y"" : -444.48185617468590181
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,4490.564463,0,0,0,0,0,0
+Light,Prolights StudioCOB FC 150,-1,-2,Prolights StudioCOB FC 150,Prolights StudioCOB FC 150,,,,,,False,,Prolights@StudioCobFC-30.gdtf,8ch,0,0,,155 W,,D,,,,70,52,1/70,1,70,8,,,A,,,,,,,0,,0,0,,80.00°,80.00°,60.00°,60.00°,4.49 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM StudioCOB FC 150,BEDLAM StudioCOB FC 150,False,LED,LED,None,False,False,False,False,False,Center,-56.82°,56.10°,377.3,False,0,0,True,180,135.00°,56.10°,33.90°,33.90°,56.82°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,1089.2,-5,"377.401730,1089.159438,435.017534,180.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-44.448186,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1084.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 3.4106051316484808922e-13,
+			""y"" : -444.48185617468590181
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,4490.564463,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,B,,L003,,19,25,1/19,1,19,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,MSL Side,0.00°,40.79°,290.8,False,0,0,False,-90,0.00°,40.79°,49.21°,49.21°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.6,878.6,-5,"7.601730,878.588443,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1087.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,B,,L003,,19,25,1/19,1,19,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,MSL Side,0.00°,40.79°,290.8,False,0,0,False,-90,0.00°,40.79°,49.21°,49.21°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.6,878.6,-5,"7.601730,878.588443,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1087.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,B,,L003,,19,25,1/19,1,19,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,MSL Side,0.00°,40.79°,290.8,False,0,0,False,-90,0.00°,40.79°,49.21°,49.21°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.6,878.6,-5,"7.601730,878.588443,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1087.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,B,,L003,,18,24,1/18,1,18,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,USL Side,0.00°,40.79°,290.8,False,0,0,False,-90,0.00°,40.79°,49.21°,49.21°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.6,1053.4,-5,"7.601730,1053.356061,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1088.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,B,,L003,,18,24,1/18,1,18,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,USL Side,0.00°,40.79°,290.8,False,0,0,False,-90,0.00°,40.79°,49.21°,49.21°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.6,1053.4,-5,"7.601730,1053.356061,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1088.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,B,,L003,,18,24,1/18,1,18,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,USL Side,0.00°,40.79°,290.8,False,0,0,False,-90,0.00°,40.79°,49.21°,49.21°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.6,1053.4,-5,"7.601730,1053.356061,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1088.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,A,,L003,,16,23,1/16,1,16,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,DSR Side,-0.01°,35.04°,268.9,False,0,0,False,-90,0.00°,35.04°,54.96°,54.96°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,708.3,-5,"-146.798270,708.300000,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1089.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,A,,L003,,16,23,1/16,1,16,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,DSR Side,-0.01°,35.04°,268.9,False,0,0,False,-90,0.00°,35.04°,54.96°,54.96°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,708.3,-5,"-146.798270,708.300000,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1089.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,A,,L003,,16,23,1/16,1,16,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,DSR Side,-0.01°,35.04°,268.9,False,0,0,False,-90,0.00°,35.04°,54.96°,54.96°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,708.3,-5,"-146.798270,708.300000,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1089.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,A,,L003,,15,22,1/15,1,15,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,MSR Side,-0.00°,35.04°,268.9,False,0,0,False,-90,0.00°,35.04°,54.96°,54.96°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,878.6,-5,"-146.798270,878.600000,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1090.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,A,,L003,,15,22,1/15,1,15,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,MSR Side,-0.00°,35.04°,268.9,False,0,0,False,-90,0.00°,35.04°,54.96°,54.96°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,878.6,-5,"-146.798270,878.600000,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1090.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,A,,L003,,15,22,1/15,1,15,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,MSR Side,-0.00°,35.04°,268.9,False,0,0,False,-90,0.00°,35.04°,54.96°,54.96°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,878.6,-5,"-146.798270,878.600000,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1090.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,A,,L003,,14,21,1/14,1,14,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,USR Side,-0.02°,35.04°,268.9,False,0,0,False,-90,0.00°,35.04°,54.96°,54.96°,0.02°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,1053.4,-5,"-146.798270,1053.400000,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1091.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,A,,L003,,14,21,1/14,1,14,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,USR Side,-0.02°,35.04°,268.9,False,0,0,False,-90,0.00°,35.04°,54.96°,54.96°,0.02°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,1053.4,-5,"-146.798270,1053.400000,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1091.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,A,,L003,,14,21,1/14,1,14,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,USR Side,-0.02°,35.04°,268.9,False,0,0,False,-90,0.00°,35.04°,54.96°,54.96°,0.02°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,1053.4,-5,"-146.798270,1053.400000,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1091.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,C,,L003,,23,27,1/23,1,23,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,USR Side,0.01°,40.79°,290.8,False,0,0,False,90,0.00°,40.79°,49.21°,49.21°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197.6,1053.4,-5,"197.601730,1053.400000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1094.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,C,,L003,,23,27,1/23,1,23,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,USR Side,0.01°,40.79°,290.8,False,0,0,False,90,0.00°,40.79°,49.21°,49.21°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197.6,1053.4,-5,"197.601730,1053.400000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1094.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,C,,L003,,23,27,1/23,1,23,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,USR Side,0.01°,40.79°,290.8,False,0,0,False,90,0.00°,40.79°,49.21°,49.21°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197.6,1053.4,-5,"197.601730,1053.400000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1094.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,C,,L003,,24,28,1/24,1,24,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,MSR Side,0.00°,40.79°,290.8,False,0,0,False,90,0.00°,40.79°,49.21°,49.21°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197.6,878.6,-5,"197.601730,878.600000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1095.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,C,,L003,,24,28,1/24,1,24,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,MSR Side,0.00°,40.79°,290.8,False,0,0,False,90,0.00°,40.79°,49.21°,49.21°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197.6,878.6,-5,"197.601730,878.600000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1095.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,C,,L003,,24,28,1/24,1,24,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,MSR Side,0.00°,40.79°,290.8,False,0,0,False,90,0.00°,40.79°,49.21°,49.21°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197.6,878.6,-5,"197.601730,878.600000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1095.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,C,,L003,,25,29,1/25,1,25,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,DSR Side,0.01°,40.79°,290.8,False,0,0,False,90,0.00°,40.79°,49.21°,49.21°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197.6,708.3,-5,"197.601730,708.300000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1096.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,C,,L003,,25,29,1/25,1,25,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,DSR Side,0.01°,40.79°,290.8,False,0,0,False,90,0.00°,40.79°,49.21°,49.21°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197.6,708.3,-5,"197.601730,708.300000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1096.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,C,,L003,,25,29,1/25,1,25,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,DSR Side,0.01°,40.79°,290.8,False,0,0,False,90,0.00°,40.79°,49.21°,49.21°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197.6,708.3,-5,"197.601730,708.300000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1096.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,D,,L003,,28,32,1/28,1,28,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,DSL Side,0.01°,39.23°,284.3,False,0,0,False,90,0.00°,39.23°,50.77°,50.77°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,708.3,-5,"377.401730,708.300000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1097.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,D,,L003,,28,32,1/28,1,28,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,DSL Side,0.01°,39.23°,284.3,False,0,0,False,90,0.00°,39.23°,50.77°,50.77°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,708.3,-5,"377.401730,708.300000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1097.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,D,,L003,,28,32,1/28,1,28,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,DSL Side,0.01°,39.23°,284.3,False,0,0,False,90,0.00°,39.23°,50.77°,50.77°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,708.3,-5,"377.401730,708.300000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1097.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,D,,L003,,27,31,1/27,1,27,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,MSL Side,0.00°,39.23°,284.3,False,0,0,False,90,0.00°,39.23°,50.77°,50.77°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,878.6,-5,"377.401730,878.600000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1098.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,D,,L003,,27,31,1/27,1,27,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,MSL Side,0.00°,39.23°,284.3,False,0,0,False,90,0.00°,39.23°,50.77°,50.77°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,878.6,-5,"377.401730,878.600000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1098.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,D,,L003,,27,31,1/27,1,27,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,MSL Side,0.00°,39.23°,284.3,False,0,0,False,90,0.00°,39.23°,50.77°,50.77°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,878.6,-5,"377.401730,878.600000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1098.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,D,,L003,,26,30,1/26,1,26,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,USL Side,0.01°,39.23°,284.3,False,0,0,False,90,0.00°,39.23°,50.77°,50.77°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,1053.4,-5,"377.401730,1053.400000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1099.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,D,,L003,,26,30,1/26,1,26,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,USL Side,0.01°,39.23°,284.3,False,0,0,False,90,0.00°,39.23°,50.77°,50.77°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,1053.4,-5,"377.401730,1053.400000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1099.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,D,,L003,,26,30,1/26,1,26,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,USL Side,0.01°,39.23°,284.3,False,0,0,False,90,0.00°,39.23°,50.77°,50.77°,0.01°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,1053.4,-5,"377.401730,1053.400000,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1099.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Moving Light,Chauvet Intimidator Spot LED 350,-1,-2,Chauvet Intimidator Spot LED 350,Chauvet Intimidator Spot LED 350,,,,,,False,,Chauvet@Intimidator Spot 350.gdtf,14 ch,0,0,,285 W,Pinspot,A,,,,100,57,1/100,1,100,14,,,A,,,,,,,0,,0,0,N/A,12.00°,17.00°,12.00°,17.00°,10.30 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Chauvet Intimidator Spot LED 350,BEDLAM Chauvet Intimidator Spot LED 350,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,-90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,823.4,-5,"-146.798270,823.362593,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-63.642546,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1107.1.1.0.0,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -636.42546383904391405
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,0,10296.546799,0,0,0,0,0,0
+Moving Light,Chauvet Intimidator Spot LED 350,-1,-2,Chauvet Intimidator Spot LED 350,Chauvet Intimidator Spot LED 350,,,,,,False,,Chauvet@Intimidator Spot 350.gdtf,14 ch,0,0,,285 W,Pinspot,A,,,,100,57,1/100,1,100,14,,,A,,,,,,,0,,0,0,N/A,12.00°,17.00°,12.00°,17.00°,10.30 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Chauvet Intimidator Spot LED 350,BEDLAM Chauvet Intimidator Spot LED 350,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,-90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,823.4,-5,"-146.798270,823.362593,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-63.642546,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1107.1.1.0.0,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -636.42546383904391405
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,0,10296.546799,0,0,0,0,0,0
+Moving Light,Chauvet Intimidator Spot LED 350,-1,-2,Chauvet Intimidator Spot LED 350,Chauvet Intimidator Spot LED 350,,,,,,False,,Chauvet@Intimidator Spot 350.gdtf,14 ch,0,0,,285 W,Pinspot,A,,,,100,57,1/100,1,100,14,,,A,,,,,,,0,,0,0,N/A,12.00°,17.00°,12.00°,17.00°,10.30 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Chauvet Intimidator Spot LED 350,BEDLAM Chauvet Intimidator Spot LED 350,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,-90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,823.4,-5,"-146.798270,823.362593,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-63.642546,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1107.1.1.0.0,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -636.42546383904391405
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,0,10296.546799,0,0,0,0,0,0
+Moving Light,Chauvet Intimidator Spot LED 350,-1,-2,Chauvet Intimidator Spot LED 350,Chauvet Intimidator Spot LED 350,,,,,,False,,Chauvet@Intimidator Spot 350.gdtf,14 ch,0,0,,285 W,Pinspot,D,,,,120,58,1/120,1,120,14,,,A,,,,,,,0,,0,0,N/A,12.00°,17.00°,12.00°,17.00°,10.30 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Chauvet Intimidator Spot LED 350,BEDLAM Chauvet Intimidator Spot LED 350,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,1010,-5,"377.401730,1010.010883,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-66.199048,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1109.1.1.0.0,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -661.9904764472307761
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,0,10296.546799,0,0,0,0,0,0
+Moving Light,Chauvet Intimidator Spot LED 350,-1,-2,Chauvet Intimidator Spot LED 350,Chauvet Intimidator Spot LED 350,,,,,,False,,Chauvet@Intimidator Spot 350.gdtf,14 ch,0,0,,285 W,Pinspot,D,,,,120,58,1/120,1,120,14,,,A,,,,,,,0,,0,0,N/A,12.00°,17.00°,12.00°,17.00°,10.30 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Chauvet Intimidator Spot LED 350,BEDLAM Chauvet Intimidator Spot LED 350,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,1010,-5,"377.401730,1010.010883,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-66.199048,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1109.1.1.0.0,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -661.9904764472307761
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,0,10296.546799,0,0,0,0,0,0
+Moving Light,Chauvet Intimidator Spot LED 350,-1,-2,Chauvet Intimidator Spot LED 350,Chauvet Intimidator Spot LED 350,,,,,,False,,Chauvet@Intimidator Spot 350.gdtf,14 ch,0,0,,285 W,Pinspot,D,,,,120,58,1/120,1,120,14,,,A,,,,,,,0,,0,0,N/A,12.00°,17.00°,12.00°,17.00°,10.30 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Chauvet Intimidator Spot LED 350,BEDLAM Chauvet Intimidator Spot LED 350,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377.4,1010,-5,"377.401730,1010.010883,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-66.199048,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1109.1.1.0.0,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -661.9904764472307761
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,0,10296.546799,0,0,0,0,0,0
+Light,Light SFX Kinetic Lights Mirror Sphere 30,-1,-2,Light SFX Kinetic Lights Mirror Sphere 30,Light SFX Kinetic Lights Mirror Sphere 30,,,,,,False,,,Standard,0,0,,0 W,Mirrorball,2,,,,140,59,1/140,1,140,0,,,A,,,,,,,0,,0,0,,0.00°,0.00°,0.00°,0.00°,1.00 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,Light SFX Kinetic Lights Mirror Sphere 30,Light SFX Kinetic Lights Mirror Sphere 30,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,0,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115.3,917.7,0,"115.301730,917.749549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1112.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,1000.17117585,0,0,0,0,0,0
+Light,Light SFX Kinetic Lights Mirror Sphere 30,-1,-2,Light SFX Kinetic Lights Mirror Sphere 30,Light SFX Kinetic Lights Mirror Sphere 30,,,,,,False,,,Standard,0,0,,0 W,Mirrorball,2,,,,140,59,1/140,1,140,0,,,A,,,,,,,0,,0,0,,0.00°,0.00°,0.00°,0.00°,1.00 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,Light SFX Kinetic Lights Mirror Sphere 30,Light SFX Kinetic Lights Mirror Sphere 30,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,0,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115.3,917.7,0,"115.301730,917.749549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1112.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,1000.17117585,0,0,0,0,0,0
+Light,Light SFX Kinetic Lights Mirror Sphere 30,-1,-2,Light SFX Kinetic Lights Mirror Sphere 30,Light SFX Kinetic Lights Mirror Sphere 30,,,,,,False,,,Standard,0,0,,0 W,Mirrorball,2,,,,140,59,1/140,1,140,0,,,A,,,,,,,0,,0,0,,0.00°,0.00°,0.00°,0.00°,1.00 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,Light SFX Kinetic Lights Mirror Sphere 30,Light SFX Kinetic Lights Mirror Sphere 30,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,0,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115.3,917.7,0,"115.301730,917.749549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1112.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,1000.17117585,0,0,0,0,0,0
+Moving Light,Robe ColorSpot 250 AT,-1,-2,Robe ColorSpot 250 AT,Robe ColorSpot 250 AT,,,,,,False,,Robe Lighting@ColorSpot 250 AT.gdtf,Mode 3 - 16 bit + Position macros,0,0,,410 W,,6,,,,150,56,1/150,1,150,20,,,A,,,,,,,0,,0,0,,18.00°,18.00°,15.00°,15.00°,23.50 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM ColorSpot 250 AT,BEDLAM ColorSpot 250 AT,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,0,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,411.4,173,0,"411.392752,173.049549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1116.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,23496.084766,0,0,0,0,0,0
+Moving Light,Robe ColorSpot 250 AT,-1,-2,Robe ColorSpot 250 AT,Robe ColorSpot 250 AT,,,,,,False,,Robe Lighting@ColorSpot 250 AT.gdtf,Mode 3 - 16 bit + Position macros,0,0,,410 W,,6,,,,662,56,2/150,1,150,20,,,A,,,,,,,0,,0,0,,18.00°,18.00°,15.00°,15.00°,23.50 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM ColorSpot 250 AT,BEDLAM ColorSpot 250 AT,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,0,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,411.4,173,0,"411.392752,173.049549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1116.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,23496.084766,0,0,0,0,0,0
+Moving Light,Robe ColorSpot 250 AT,-1,-2,Robe ColorSpot 250 AT,Robe ColorSpot 250 AT,,,,,,False,,Robe Lighting@ColorSpot 250 AT.gdtf,Mode 3 - 16 bit + Position macros,0,0,,410 W,,6,,,,150,56,1/150,1,150,20,,,A,,,,,,,0,,0,0,,18.00°,18.00°,15.00°,15.00°,23.50 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM ColorSpot 250 AT,BEDLAM ColorSpot 250 AT,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,0,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,411.4,173,0,"411.392752,173.049549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1116.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,23496.084766,0,0,0,0,0,0
+Moving Light,Robe ColorSpot 250 AT,-1,-2,Robe ColorSpot 250 AT,Robe ColorSpot 250 AT,,,,,,False,,Robe Lighting@ColorSpot 250 AT.gdtf,Mode 3 - 16 bit + Position macros,0,0,,410 W,,6,,,,170,55,1/170,1,170,20,,,A,,,,,,,0,,0,0,,18.00°,18.00°,15.00°,15.00°,23.50 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM ColorSpot 250 AT,BEDLAM ColorSpot 250 AT,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,0,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-180.8,173,0,"-180.789293,173.049549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1117.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,23496.084766,0,0,0,0,0,0
+Moving Light,Robe ColorSpot 250 AT,-1,-2,Robe ColorSpot 250 AT,Robe ColorSpot 250 AT,,,,,,False,,Robe Lighting@ColorSpot 250 AT.gdtf,Mode 3 - 16 bit + Position macros,0,0,,410 W,,6,,,,682,55,2/170,1,170,20,,,A,,,,,,,0,,0,0,,18.00°,18.00°,15.00°,15.00°,23.50 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM ColorSpot 250 AT,BEDLAM ColorSpot 250 AT,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,0,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-180.8,173,0,"-180.789293,173.049549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1117.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,23496.084766,0,0,0,0,0,0
+Moving Light,Robe ColorSpot 250 AT,-1,-2,Robe ColorSpot 250 AT,Robe ColorSpot 250 AT,,,,,,False,,Robe Lighting@ColorSpot 250 AT.gdtf,Mode 3 - 16 bit + Position macros,0,0,,410 W,,6,,,,170,55,1/170,1,170,20,,,A,,,,,,,0,,0,0,,18.00°,18.00°,15.00°,15.00°,23.50 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM ColorSpot 250 AT,BEDLAM ColorSpot 250 AT,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,0,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-180.8,173,0,"-180.789293,173.049549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1117.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,23496.084766,0,0,0,0,0,0
+Light,Selecon Chorus Follow Spot,-1,-2,Selecon Chorus Follow Spot,Selecon Chorus Follow Spot,,,,,,False,,,,0,0,,1200 W,Followspot,,,,,47,49,1/47,1,47,1,,,A,,,,,,,0,,0,0,185mm,16.00°,16.00°,8.00°,8.00°,22.50 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Chorus Followspot,BEDLAM Chorus Followspot,False,Generic,Generic,None,False,False,False,False,False,CS Spot,1.59°,68.78°,989.7,False,0,0,False,19.19558597,0.00°,68.78°,21.22°,21.22°,1.59°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,442.2,-104.9,-20,"442.237809,-104.861981,380.000000,-19.195586,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1139.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,22498.181552,0,0,0,0,0,0
+Light,Selecon Chorus Follow Spot,-1,-2,Selecon Chorus Follow Spot,Selecon Chorus Follow Spot,,,,,,False,,,,0,0,,1200 W,Followspot,,,,,47,49,1/47,1,47,1,,,A,,,,,,,0,,0,0,185mm,16.00°,16.00°,8.00°,8.00°,22.50 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Chorus Followspot,BEDLAM Chorus Followspot,False,Generic,Generic,None,False,False,False,False,False,CS Spot,1.59°,68.78°,989.7,False,0,0,False,19.19558597,0.00°,68.78°,21.22°,21.22°,1.59°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,442.2,-104.9,-20,"442.237809,-104.861981,380.000000,-19.195586,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1139.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,22498.181552,0,0,0,0,0,0
+Light,Selecon Chorus Follow Spot,-1,-2,Selecon Chorus Follow Spot,Selecon Chorus Follow Spot,,,,,,False,,,,0,0,,1200 W,Followspot,,,,,47,49,1/47,1,47,1,,,A,,,,,,,0,,0,0,185mm,16.00°,16.00°,8.00°,8.00°,22.50 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Chorus Followspot,BEDLAM Chorus Followspot,False,Generic,Generic,None,False,False,False,False,False,CS Spot,1.59°,68.78°,989.7,False,0,0,False,19.19558597,0.00°,68.78°,21.22°,21.22°,1.59°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,442.2,-104.9,-20,"442.237809,-104.861981,380.000000,-19.195586,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1139.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,22498.181552,0,0,0,0,0,0
+Light,Altman PAR38 FL,-1,-2,Altman PAR38 FL,Altman PAR38 FL,,,,,,False,,,,0,0,,150 W,House,,,,,48,50,1/48,1,48,0,,,A,,,,,,,0,,0,0,,35.00°,60.00°,35.00°,60.00°,1.81 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,Light Instr Altman PAR38 FL,Light Instr Altman PAR38 FL,False,Generic,Generic,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,-90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,Alt PAR 38,PAR 38 FL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.6,251.7,0,"7.601730,251.659438,440.000000,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-42.172738,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1143.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -421.72737792597382622
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,1814.36948,0,0,0,0,0,0
+Light,Altman PAR38 FL,-1,-2,Altman PAR38 FL,Altman PAR38 FL,,,,,,False,,,,0,0,,150 W,House,,,,,48,50,1/48,1,48,0,,,A,,,,,,,0,,0,0,,35.00°,60.00°,35.00°,60.00°,1.81 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,Light Instr Altman PAR38 FL,Light Instr Altman PAR38 FL,False,Generic,Generic,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,-90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,Alt PAR 38,PAR 38 FL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.6,251.7,0,"7.601730,251.659438,440.000000,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-42.172738,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1143.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -421.72737792597382622
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,1814.36948,0,0,0,0,0,0
+Light,Altman PAR38 FL,-1,-2,Altman PAR38 FL,Altman PAR38 FL,,,,,,False,,,,0,0,,150 W,House,,,,,48,50,1/48,1,48,0,,,A,,,,,,,0,,0,0,,35.00°,60.00°,35.00°,60.00°,1.81 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,Light Instr Altman PAR38 FL,Light Instr Altman PAR38 FL,False,Generic,Generic,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,-90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,Alt PAR 38,PAR 38 FL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.6,251.7,0,"7.601730,251.659438,440.000000,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-42.172738,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1143.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -421.72737792597382622
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,1814.36948,0,0,0,0,0,0
+Light,Altman PAR38 FL,-1,-2,Altman PAR38 FL,Altman PAR38 FL,,,,,,False,,,,0,0,,150 W,House,C,,,,48,50,1/48,1,48,0,,,A,,,,,,,0,,0,0,,35.00°,60.00°,35.00°,60.00°,1.81 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,Light Instr Altman PAR38 FL,Light Instr Altman PAR38 FL,False,Generic,Generic,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,Alt PAR 38,PAR 38 FL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197.6,251.7,-5,"197.601730,251.659438,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-43.834294,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1145.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -438.34293893054496039
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,1814.36948,0,0,0,0,0,0
+Light,Altman PAR38 FL,-1,-2,Altman PAR38 FL,Altman PAR38 FL,,,,,,False,,,,0,0,,150 W,House,C,,,,48,50,1/48,1,48,0,,,A,,,,,,,0,,0,0,,35.00°,60.00°,35.00°,60.00°,1.81 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,Light Instr Altman PAR38 FL,Light Instr Altman PAR38 FL,False,Generic,Generic,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,Alt PAR 38,PAR 38 FL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197.6,251.7,-5,"197.601730,251.659438,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-43.834294,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1145.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -438.34293893054496039
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,1814.36948,0,0,0,0,0,0
+Light,Altman PAR38 FL,-1,-2,Altman PAR38 FL,Altman PAR38 FL,,,,,,False,,,,0,0,,150 W,House,C,,,,48,50,1/48,1,48,0,,,A,,,,,,,0,,0,0,,35.00°,60.00°,35.00°,60.00°,1.81 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,Light Instr Altman PAR38 FL,Light Instr Altman PAR38 FL,False,Generic,Generic,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,Alt PAR 38,PAR 38 FL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197.6,251.7,-5,"197.601730,251.659438,435.017534,-90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-43.834294,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1145.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -438.34293893054496039
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,1814.36948,0,0,0,0,0,0
+Light,ETC Source 4 PAR MFL,-1,-2,ETC Source 4 PAR MFL,ETC Source 4 PAR MFL,,,,ETC Source 4 Par MFL.lit,ETC Source 4 Par MFL.lit,False,ETC Source4 Par MFL,,,0,0,,575 W,,B,,L003,,26,26,1/26,1,26,1,,,A,,,,,,,0,,0,0,190mm,40.00°,31.00°,30.00°,18.00°,3.40 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 PAR,BEDLAM Source 4 PAR,False,Generic,Generic,None,False,False,False,False,False,DSL Side,0.00°,40.79°,290.8,False,0,0,False,-90,0.00°,40.79°,49.21°,49.21°,0.00°,,,,ETC S4 PAR,MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.6,708.3,-5,"7.601730,708.271200,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"64250,61680,64250",1063.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,3401.942775,0,0,0,0,0,0
+Light,ETC Source 4 Jr Zoom,-1,-2,ETC Source 4 Jr Zoom,ETC Source 4 Jr Zoom,,,,ETC Source 4 Jr Zoom.lit,ETC Source 4 Jr Zoom.lit,False,ETC Source4 Jr Zoom ,,,0,0,,575W,,,,,,41,41,1/41,1,41,1,,,A,,,,,,,0,,0,0,190mm,28.00°,50.00°,21.00°,40.00°,4.54 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Source 4 Jr Zoom,BEDLAM Source 4 Jr Zoom,False,Generic,Generic,None,False,False,False,False,False,SR Spot,-2.94°,52.94°,362.2,False,0,0,False,0,0.00°,52.94°,37.06°,37.06°,2.94°,,,,ETC S4 Jr Zoom,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-93.8,469,0,"-93.825473,469.042558,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1031.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,4535.9237,0,0,0,0,0,0
+Moving Light,Chauvet Intimidator Spot LED 350,-1,-2,Chauvet Intimidator Spot LED 350,Chauvet Intimidator Spot LED 350,,,,,,False,,Chauvet@Intimidator Spot 350.gdtf,14 ch,0,0,,285 W,Pinspot,A,,,,100,57,1/100,1,100,14,,,A,,,,,,,0,,0,0,N/A,12.00°,17.00°,12.00°,17.00°,10.30 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Chauvet Intimidator Spot LED 350,BEDLAM Chauvet Intimidator Spot LED 350,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,-90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,823.4,-5,"-146.798270,823.362593,435.017534,90.000000,0.000000,0.000000,0.000000,0.000000,0.000000,-63.642546,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1107.1.1.0.0,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -636.42546383904391405
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,0,10296.546799,0,0,0,0,0,0
+Light,Prolights StudioCOB FC 150,-1,-2,Prolights StudioCOB FC 150,Prolights StudioCOB FC 150,,,,,,False,,Prolights@StudioCobFC-30.gdtf,8ch,0,0,,155 W,,A,,,,60,51,1/60,1,60,8,,,A,,,,,,,0,,0,0,,80.00°,80.00°,60.00°,60.00°,4.49 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM StudioCOB FC 150,BEDLAM StudioCOB FC 150,False,LED,LED,None,False,False,False,False,False,Center,56.82°,56.10°,377.3,False,0,0,True,-180,225.00°,56.10°,33.90°,33.90°,56.82°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146.8,1089.2,-5,"-146.798270,1089.159438,435.017534,180.000000,0.000000,0.000000,0.000000,0.000000,-0.000000,-46.567981,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,1,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1079.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : -8.8107299234252423048e-13,
+			""y"" : -465.6798058768924875
+		},
+		{
+			""index"" : 1,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,4490.564463,0,0,0,0,0,0
+Light,Selecon Acclaim Fresnel,-1,-2,Selecon Acclaim 6-60 Fresnel,Selecon Acclaim 6-60 Fresnel,,,,Selecon Acclaim 6-60.lit,Selecon Acclaim 6-60.lit,False,Selecon Acclaim 6-60 Fresnel,,,0,0,,650 W,,4,,,,1,1,1/1,1,1,1,,,A,,,,,,,0,,0,0,125mm,60.00°,0.00°,50.00°,0.00°,2.80 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Acclaim,BEDLAM Acclaim,False,Generic,Generic,None,False,False,False,False,False,USR Wash,-3.38°,63.00°,500.4,False,0,0,False,0,0.00°,63.00°,27.00°,27.00°,3.38°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-105.3,570.6,0,"-105.260277,570.649549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1038.1.1.0.1,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,1,2798.6649229,0,0,0,0,0,0
+Light,Martin JEM Compact Hazer Pro,-1,-2,Martin JEM Compact Hazer Pro,Martin JEM Compact Hazer Pro,,,,,,False,,,,0,0,,1042 W,Hazer somewhere on stage,,,,,150,60,1/150,1,150,3,,,A,,,,,,,0,,0,0,,0.00°,0.00°,0.00°,0.00°,11.02 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM JEM Compact Hazer Pro,BEDLAM JEM Compact Hazer Pro,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-252.4,772,0,"104.275081,789.017477,40.000000,-90.000000,-21.398846,4.101730,0.000000,0.000000,0.000000,-66.178577,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,1,0,1,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1135.1.1.0.1,,"{
+	""handles"" : [
+		{
+			""index"" : 1,
+			""override"" : true,
+			""x"" : -213.98845628522940387,
+			""y"" : 41.017298055156061309
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -661.78577063891498256
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,1,11022.294591,0,0,0,0,0,0
+Moving Light,Robe ColorSpot 250 AT,-1,-2,Robe ColorSpot 250 AT,Robe ColorSpot 250 AT,,,,,,False,,Robe Lighting@ColorSpot 250 AT.gdtf,Mode 3 - 16 bit + Position macros,0,0,,410 W,,6,,,,662,56,2/150,2,150,20,,,A,,,,,,,0,,0,0,,18.00°,18.00°,15.00°,15.00°,23.50 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM ColorSpot 250 AT,BEDLAM ColorSpot 250 AT,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,0,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,411.4,173,0,"411.392752,173.049549,440.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,True,,"65535,65535,65535",1116.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,23496.084766,0,0,0,0,0,0
+Light,Selecon Chorus Follow Spot,-1,-2,Selecon Chorus Follow Spot,Selecon Chorus Follow Spot,,,,,,False,,,,0,0,,1200 W,Followspot,,,,,47,49,1/47,1,47,0,,,A,,,,,,,0,,0,0,185mm,16.00°,16.00°,8.00°,8.00°,22.50 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM Chorus Followspot,BEDLAM Chorus Followspot,False,Generic,Generic,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,19.19558597,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,442.2,-104.9,-60,"442.237809,-104.861981,380.000000,-19.195586,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1139.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,22498.181552,0,0,0,0,0,0
+Light,Altman PAR 64 MFL,-1,-2,Altman PAR 64 MFL,Altman PAR 64 MFL,,,,,,False,,,,0,0,,1000 W,Lewis Pub Quiz Light,,,,,45,44,1/45,1,45,0,,,A,,,,,,,0,,0,0,254mm,22.00°,45.00°,22.00°,45.00°,3.63 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM PAR64 MFL,BEDLAM PAR64 MFL,False,Generic,Generic,None,False,False,False,False,False,Center,-46.59°,66.23°,326.3,False,180,0,False,12.91,0.00°,66.23°,23.77°,23.77°,46.59°,,,,Alt PAR 64,PAR 64 MFL,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-142,1069.3,-8.8,"-142.000000,1069.315180,31.160190,12.910000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0,0,0,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1159.1.1.0.0,,"{
+	""handles"" : []
+}","{
+	""handles"" : []
+}",1,0,3628.73896,0,0,0,0,0,0
+Light,Martin JEM Compact Hazer Pro,-1,-2,Martin JEM Compact Hazer Pro,Martin JEM Compact Hazer Pro,,,,,,False,,,,0,0,,1042 W,Hazer somewhere on stage,,,,,190,60,1/190,1,190,3,,,A,,,,,,,0,,0,0,,0.00°,0.00°,0.00°,0.00°,11.02 kg,,0.00°,,0.00°,,False,False,False,Focus Point,152.4,0.00°,0,0.00°,0,0.00°,0,0.00°,0,0.00°,False,False,100,BEDLAM JEM Compact Hazer Pro,BEDLAM JEM Compact Hazer Pro,False,LED,LED,None,False,False,False,False,False,,0.00°,0.00°,0,False,0,0,False,90,0.00°,0.00°,0.00°,0.00°,0.00°,,,,,,False,,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-252.4,772,35.3,"104.275081,789.017477,40.000000,-90.000000,-21.398846,4.101730,0.000000,0.000000,0.000000,-66.178577,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,1,0,1,0,0,0,0,0",,,,,False,2907,False,,"65535,65535,65535",1135.1.1.0.0,,"{
+	""handles"" : [
+		{
+			""index"" : 1,
+			""override"" : true,
+			""x"" : -213.98845628522940387,
+			""y"" : 41.017298055156061309
+		},
+		{
+			""index"" : 2,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 3,
+			""override"" : true,
+			""x"" : 0,
+			""y"" : -661.78577063891498256
+		},
+		{
+			""index"" : 4,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 5,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 6,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 7,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		},
+		{
+			""index"" : 8,
+			""override"" : false,
+			""x"" : 0,
+			""y"" : 0
+		}
+	]
+}","{
+	""handles"" : []
+}",1,0,11022.294591,0,0,0,0,0,0
