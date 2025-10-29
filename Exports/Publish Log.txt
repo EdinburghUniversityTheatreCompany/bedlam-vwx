@@ -344,3 +344,61 @@ Total files successfully created:          1
 Publish Ended at:     11/7/24  18:07:42
 
 
+Publish Started at:     10/29/25  17:40:25
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Bedlam Theatre\Exports\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                        FILE FORMAT       RESULT                SOURCE FILE
+----                        -----------       --------------------  -------------
+1-Full Stage Conversion     PDF               (    0.50s)   SUCCESS conversion
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               1
+Total files successfully created:          1
+--------------------------------------------------------------
+Publish Ended at:     10/29/25  17:40:26
+
+
+Publish Started at:     10/29/25  17:48:03
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Bedlam Theatre\Exports\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                        FILE FORMAT       RESULT                SOURCE FILE
+----                        -----------       --------------------  -------------
+1-Full Stage Conversion     PDF               (    0.47s)   SUCCESS conversion-solo
+3-Road Conversion           PDF               (    0.47s)   SUCCESS conversion-solo
+2-Pippin Conversion         PDF               (    0.67s)   SUCCESS conversion-solo
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               3
+Total files successfully created:          3
+--------------------------------------------------------------
+Publish Ended at:     10/29/25  17:48:05
+
+
