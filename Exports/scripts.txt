@@ -1,0 +1,54 @@
+PROCEDURE Test;
+{26 May 2021
+This script will create a text object that lists all symbols 
+in the resource browser and their default classes, if any.}
+
+
+	CONST
+		kCR		=		CHR(13);
+		kDiv	=		':  ';
+		kHeading =		'Symbol Class Report';
+
+	VAR
+		ThisSymbol		: HANDLE;
+		MessageToUser,SymName,CurrentDefaultClass	: STRING;
+		insertMode,breakMode	: INTEGER;
+		
+PROCEDURE CheckDefaultClass (h:HANDLE);
+	BEGIN
+		IF GetType(h)=16 THEN
+			BEGIN
+				SymName := GetName(h);
+	
+				GetSymbolOptionsN(SymName,insertMode,breakMode,CurrentDefaultClass);
+
+				MessageToUser := Concat(MessageToUser,kCR,
+										SymName,kDiv,CurrentDefaultClass,kCR);
+			END;
+	END;		
+		
+		
+BEGIN
+	MessageToUser := '';
+	ThisSymbol := FSymDef;
+	
+	IF ThisSymbol <> NIL THEN CheckDefaultClass(ThisSymbol);
+	
+	WHILE (NextSymDef(ThisSymbol) <> NIL) DO
+		BEGIN
+		
+			ThisSymbol := NextSymDef(ThisSymbol);
+			CheckDefaultClass(ThisSymbol);
+		
+		END;
+	
+	BeginText;
+		Concat(kHeading,kCR,Date(2,2),kCR,MessageToUser)
+	EndText;
+
+END;		
+
+
+
+
+RUN(Test);
