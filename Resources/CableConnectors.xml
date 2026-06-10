@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<Entries>
+
+    <Entry SocketPatchCount="3" UniversalName="BS 1363" LocalizedName="UK 13 Amp">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="BS 546 type M" LocalizedName="UK 15 Amp">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="16A-P+N+E CEE" LocalizedName="16A-1phCEE">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="32A-P+N+E CEE" LocalizedName="32A-1phCEE">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="63A-P+N+E CEE" LocalizedName="63A-1phCEE">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="125A-P+N+E CEE" LocalizedName="125A-1phCEE">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="powerCON" LocalizedName="PowerCON">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+        <ConnectableWith UniversalName="PowerTwist20"/>
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="TRUE1" LocalizedName="PowerCON TRUE1">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+        <ConnectableWith UniversalName="PowerTwistCBC"/>
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="IEC 60320-C7/C8" LocalizedName="IEC Figure 8">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="IEC 60320-C13/C14" LocalizedName="IEC Kettle">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="19" UniversalName="Socapex-19 P+N+E 230v" LocalizedName="Socapex-19">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N1" LocalizedName="N1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="N2" LocalizedName="N2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N3" LocalizedName="N3" />
+
+        <Socket UniversalName="L4" LocalizedName="L4" />
+
+        <Socket UniversalName="N4" LocalizedName="N4" />
+
+        <Socket UniversalName="L5" LocalizedName="L5" />
+
+        <Socket UniversalName="N5" LocalizedName="N5" />
+
+        <Socket UniversalName="L6" LocalizedName="L6" />
+
+        <Socket UniversalName="N6" LocalizedName="N6" />
+
+        <Socket UniversalName="PE1" LocalizedName="PE1" />
+
+        <Socket UniversalName="PE2" LocalizedName="PE2" />
+
+        <Socket UniversalName="PE3" LocalizedName="PE3" />
+
+        <Socket UniversalName="PE4" LocalizedName="PE4" />
+
+        <Socket UniversalName="PE5" LocalizedName="PE5" />
+
+        <Socket UniversalName="PE6" LocalizedName="PE6" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <ConnectableWith UniversalName="Socapex-19 US Hot-N-Grnd 120v"/>
+
+    </Entry>
+
+
+
+    <Entry SocketPatchCount="3" UniversalName="XLR3" LocalizedName="3-pin XLR"> 
+
+    </Entry>
+
+    <Entry SocketPatchCount="4" UniversalName="XLR4" LocalizedName="4-pin XLR">
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="XLR5" LocalizedName="5-pin XLR">
+
+    </Entry>
+
+
+    <Entry SocketPatchCount="8" UniversalName="XLRRJ45" LocalizedName="RJ45-XLR">
+    </Entry>
+
+    <Entry SocketPatchCount="8" UniversalName="RJ45" LocalizedName="RJ45">
+        <ConnectableWith UniversalName="XLRRJ45"/>
+    </Entry>
+
+    <Entry SocketPatchCount="20" UniversalName="SDI" LocalizedName="SDI">
+
+    </Entry>
+
+    <Entry SocketPatchCount="2" UniversalName="BNC" LocalizedName="BNC connector">
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="STJ" LocalizedName="Quarter Inch Streo Jack">
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="MSTJ" LocalizedName="3.5mm mini Stereo Jack">
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="RCA" LocalizedName="RCA Phono Connector">
+
+    </Entry>
+
+    <Entry SocketPatchCount="20" UniversalName="DP" LocalizedName="DisplayPort">
+
+    </Entry>
+
+
+    <Entry SocketPatchCount="29" UniversalName="DVI" LocalizedName="DVI">
+
+    </Entry>
+
+    <Entry SocketPatchCount="19" UniversalName="HDMI" LocalizedName="HDMI">
+
+    </Entry>
+
+    <Entry SocketPatchCount="1" UniversalName="TL-ST" LocalizedName="Toslink">
+
+    </Entry>
+
+
+    <Entry SocketPatchCount="1" UniversalName="USB" LocalizedName="USB connector">
+
+    </Entry>
+
+
+    <Entry SocketPatchCount="2" UniversalName="SpeakON" LocalizedName="SpeakON">
+
+    </Entry>
+
+
+    <Entry SocketPatchCount="1" UniversalName="cPOT" LocalizedName="Connex cPOT">
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="1" UniversalName="Lug" LocalizedName="EARTH Lug">
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>     
+
+    <Entry SocketPatchCount="5" UniversalName="Cam Lock 2/0 awg" LocalizedName="Cam Lock 2/0">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+        <ConnectableWith UniversalName="Cam Lock 4/0 awg" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="Cam Lock 4/0 awg" LocalizedName="Cam Lock 4/0">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+        <ConnectableWith UniversalName="Cam Lock 2/0 awg"/>
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="16A-P+N+E CEE-110v" LocalizedName="16A-Yellow">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="32A-P+N+E CEE-110v" LocalizedName="32A-Yellow">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="4" UniversalName="16A-2P+N+E CEE" LocalizedName="16A-2phCEE">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="16A-3P+N+E CEE" LocalizedName="16A-3phCEE">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="32A-3P+N+E CEE" LocalizedName="32A-3phCEE" >
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="63A-3P+N+E CEE" LocalizedName="63A-3phCEE" >
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="125A-3P+N+E CEE" LocalizedName="125A-3phCEE" >
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="Powerlock 120A" LocalizedName="Powerlock 120A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="Powerlock 400A" LocalizedName="Powerlock 400A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="Powerlock 660A" LocalizedName="Powerlock 660A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="Powerlock 800A" LocalizedName="Powerlock 800A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="Wilco 32A" LocalizedName="Wilco 32A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="Bare Ends" LocalizedName="Bare Ends">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="Stagepin 5T20 2p+G" LocalizedName="Stagepin">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="Stagepin 5T30 2p+G" LocalizedName="Stagepin 30A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="Stagepin 5T60 2p+G" LocalizedName="Stagepin 60A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="Stagepin 5T100 2p+G" LocalizedName="Stagepin 100A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="NEMA 5-15" LocalizedName="Edison">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="NEMA L5-20" LocalizedName="L5-20">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>       
+
+    <Entry SocketPatchCount="3" UniversalName="NEMA L6-15" LocalizedName="L6-15">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="NEMA L6-20" LocalizedName="L6-20">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="4" UniversalName="NEMA L15-30" LocalizedName="L15-30">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="NEMA L21-30" LocalizedName="L21-30">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L2" LocalizedName="L3" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="CEE 7/4" LocalizedName="Schutzkontakt">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+        <ConnectableWith UniversalName="Cee 7/7"/>
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="CEE 7/6" LocalizedName="Schuko (French)">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+        <ConnectableWith UniversalName="Cee 7/7"/>
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="CEE 7/7" LocalizedName="Schuko">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+        <ConnectableWith UniversalName="Cee 7/4"/>
+
+        <ConnectableWith UniversalName="Cee 7/6"/>
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="PowerTwist15" LocalizedName="Power Twist 15A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="PowerTwist20" LocalizedName="Power Twist 20A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="PowerTwistCBC" LocalizedName="Power Twist CBC">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+
+    <Entry SocketPatchCount="3" UniversalName="AS/NZS 3112 10A" LocalizedName="AS/NZS-10A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+        <ConnectableWith UniversalName="AS/NZS 3112 15A" />
+
+        <ConnectableWith UniversalName="AS/NZS 3112 20A" /> 
+
+        <ConnectableWith UniversalName="AS/NZS 3112 25A" /> 
+
+        <ConnectableWith UniversalName="AS/NZS 3112 32A" /> 
+
+    </Entry> 
+
+    <Entry SocketPatchCount="3" UniversalName="AS/NZS 3112 15A" LocalizedName="AS/NZS-15A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+        <ConnectableWith UniversalName="AS/NZS 3112 20A" />
+
+        <ConnectableWith UniversalName="AS/NZS 3112 25A" />
+
+        <ConnectableWith UniversalName="AS/NZS 3112 32A" />                  
+
+    </Entry> 
+
+    <Entry SocketPatchCount="3" UniversalName="AS/NZS 3112 20A" LocalizedName="AS/NZS-20A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+        <ConnectableWith UniversalName="AS/NZS 3112 25A" /> 
+
+        <ConnectableWith UniversalName="AS/NZS 3112 32A" />        
+
+    </Entry>
+
+    <Entry SocketPatchCount="3" UniversalName="AS/NZS 3112 25A" LocalizedName="AS/NZS-25A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+        <ConnectableWith UniversalName="AS/NZS 3112 32A" /> 
+
+    </Entry> 
+
+    <Entry SocketPatchCount="3" UniversalName="AS/NZS 3112 32A" LocalizedName="AS/NZS-32A">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N" LocalizedName="N" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>                            
+
+    <Entry SocketPatchCount="17" UniversalName="HAN-16 German" LocalizedName="HAN-16/6ch">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="L4" LocalizedName="L4" />
+
+        <Socket UniversalName="L5" LocalizedName="L5" />
+
+        <Socket UniversalName="L6" LocalizedName="L6" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="N1" LocalizedName="N1" />
+
+        <Socket UniversalName="N2" LocalizedName="N2" />
+
+        <Socket UniversalName="N3" LocalizedName="N3" />
+
+        <Socket UniversalName="N4" LocalizedName="N4" />
+
+        <Socket UniversalName="N5" LocalizedName="N5" />
+
+        <Socket UniversalName="N6" LocalizedName="N6" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="17" UniversalName="HAN-16 Benelux" LocalizedName="HAN-16/8ch">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N1" LocalizedName="N1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="N2" LocalizedName="N2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N3" LocalizedName="N3" />
+
+        <Socket UniversalName="L4" LocalizedName="L4" />
+
+        <Socket UniversalName="N4" LocalizedName="N4" />
+
+        <Socket UniversalName="L5" LocalizedName="L5" />
+
+        <Socket UniversalName="N5" LocalizedName="N5" />
+
+        <Socket UniversalName="L6" LocalizedName="L6" />
+
+        <Socket UniversalName="N6" LocalizedName="N6" />
+
+        <Socket UniversalName="L7" LocalizedName="L7" />
+
+        <Socket UniversalName="N7" LocalizedName="N7" />
+
+        <Socket UniversalName="L8" LocalizedName="L8" />
+
+        <Socket UniversalName="N8" LocalizedName="N8" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="17" UniversalName="HAN-16 Benelux (6ch)" LocalizedName="HAN-16/6ch (1-2,3-4,..)">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N1" LocalizedName="N1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="N2" LocalizedName="N2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N3" LocalizedName="N3" />
+
+        <Socket UniversalName="L4" LocalizedName="L4" />
+
+        <Socket UniversalName="N4" LocalizedName="N4" />
+
+        <Socket UniversalName="L5" LocalizedName="L5" />
+
+        <Socket UniversalName="N5" LocalizedName="N5" />
+
+        <Socket UniversalName="L6" LocalizedName="L6" />
+
+        <Socket UniversalName="N6" LocalizedName="N6" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>    
+
+    <Entry SocketPatchCount="19" UniversalName="Socapex-19 US Hot-N-Grnd 120v" LocalizedName="Socapex-19 (US 14/120v)">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N1" LocalizedName="N1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="N2" LocalizedName="N2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N3" LocalizedName="N3" />
+
+        <Socket UniversalName="L4" LocalizedName="L4" />
+
+        <Socket UniversalName="N4" LocalizedName="N4" />
+
+        <Socket UniversalName="L5" LocalizedName="L5" />
+
+        <Socket UniversalName="N5" LocalizedName="N5" />
+
+        <Socket UniversalName="L6" LocalizedName="L6" />
+
+        <Socket UniversalName="N6" LocalizedName="N6" />
+
+        <Socket UniversalName="PE1" LocalizedName="PE1" />
+
+        <Socket UniversalName="PE1" LocalizedName="PE1" />
+
+        <Socket UniversalName="PE1" LocalizedName="PE1" />
+
+        <Socket UniversalName="PE2" LocalizedName="PE2" />
+
+        <Socket UniversalName="PE2" LocalizedName="PE2" />
+
+        <Socket UniversalName="PE2" LocalizedName="PE2" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <ConnectableWith UniversalName="Socapex-19 P+N+E 230v"/>
+
+    </Entry>
+
+    <Entry SocketPatchCount="19" UniversalName="Socapex-19 US Hot-Hot-Grnd 208v" LocalizedName="Socapex-19 (US Two-pole 208v)">
+
+        <Socket UniversalName="L1A" LocalizedName="L1A" />
+
+        <Socket UniversalName="L1B" LocalizedName="L1B" />
+
+        <Socket UniversalName="L2A" LocalizedName="L2A" />
+
+        <Socket UniversalName="L2B" LocalizedName="L2B" />
+
+        <Socket UniversalName="L3A" LocalizedName="L3A" />
+
+        <Socket UniversalName="L3B" LocalizedName="L3B" />
+
+        <Socket UniversalName="L4A" LocalizedName="L4A" />
+
+        <Socket UniversalName="L4B" LocalizedName="L4B" />
+
+        <Socket UniversalName="L5A" LocalizedName="L5A" />
+
+        <Socket UniversalName="L5B" LocalizedName="L5B" />
+
+        <Socket UniversalName="L6A" LocalizedName="L6A" />
+
+        <Socket UniversalName="L6B" LocalizedName="L6B" />
+
+        <Socket UniversalName="PE1" LocalizedName="PE1" />
+
+        <Socket UniversalName="PE2" LocalizedName="PE2" />
+
+        <Socket UniversalName="PE3" LocalizedName="PE3" />
+
+        <Socket UniversalName="PE4" LocalizedName="PE4" />
+
+        <Socket UniversalName="PE5" LocalizedName="PE5" />
+
+        <Socket UniversalName="PE6" LocalizedName="PE6" />
+
+        <Socket UniversalName="NIU" LocalizedName="NIU" />
+
+        <ConnectableWith UniversalName="Socapex-19 P+N+E 230v"/>
+
+    </Entry>
+
+    <Entry SocketPatchCount="16" UniversalName="Socapex-16" LocalizedName="Socapex-16">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+        <Socket UniversalName="Control Up" LocalizedName="Up" />
+
+        <Socket UniversalName="Control" LocalizedName="C" />
+
+        <Socket UniversalName="Control Down" LocalizedName="Dwn" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="9" UniversalName="Socapex-9" LocalizedName="Socapex-9">
+
+    </Entry>
+
+    <Entry SocketPatchCount="7" UniversalName="Socapex-7" LocalizedName="Socapex-7">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="Control Up" LocalizedName="Up" />
+
+        <Socket UniversalName="Control" LocalizedName="C" />
+
+        <Socket UniversalName="Control Down" LocalizedName="Dwn" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>      
+
+    <Entry SocketPatchCount="7" UniversalName="VEAM P-14" LocalizedName="P-14">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="Control Up" LocalizedName="Up" />
+
+        <Socket UniversalName="Control" LocalizedName="C" />
+
+        <Socket UniversalName="Control Down" LocalizedName="Dwn" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="17" UniversalName="Wieland 6way PRG" LocalizedName="Wieland/6ch (PRG)">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N1" LocalizedName="N1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="N2" LocalizedName="N2" />
+
+        <Socket UniversalName="PE2" LocalizedName="PE2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N3" LocalizedName="N3" />
+
+        <Socket UniversalName="PE3" LocalizedName="PE3" />
+
+        <Socket UniversalName="L4" LocalizedName="L4" />
+
+        <Socket UniversalName="N4" LocalizedName="N4" />
+
+        <Socket UniversalName="PE4" LocalizedName="PE4" />
+
+        <Socket UniversalName="L5" LocalizedName="L5" />
+
+        <Socket UniversalName="N5" LocalizedName="N5" />
+
+        <Socket UniversalName="PE5" LocalizedName="PE5" />
+
+        <Socket UniversalName="L6" LocalizedName="L6" />
+
+        <Socket UniversalName="N6" LocalizedName="N6" />
+
+        <Socket UniversalName="PE1+6" LocalizedName="PE1+6" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="17" UniversalName="Wieland 6way LSC" LocalizedName="Wieland/6ch (LSC)">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="L4" LocalizedName="L4" />
+
+        <Socket UniversalName="L5" LocalizedName="L5" />
+
+        <Socket UniversalName="L6" LocalizedName="L6" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="N1" LocalizedName="N1" />
+
+        <Socket UniversalName="N2" LocalizedName="N2" />
+
+        <Socket UniversalName="N3" LocalizedName="N3" />
+
+        <Socket UniversalName="N4" LocalizedName="N4" />
+
+        <Socket UniversalName="N5" LocalizedName="N5" />
+
+        <Socket UniversalName="N6" LocalizedName="N6" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="17" UniversalName="Wieland 6way CLS" LocalizedName="Wieland/6ch (CLS)">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="L4" LocalizedName="L4" />
+
+        <Socket UniversalName="L5" LocalizedName="L5" />
+
+        <Socket UniversalName="L6" LocalizedName="L6" />
+
+        <Socket UniversalName="N1" LocalizedName="N1" />
+
+        <Socket UniversalName="N2" LocalizedName="N2" />
+
+        <Socket UniversalName="N3" LocalizedName="N3" />
+
+        <Socket UniversalName="N4" LocalizedName="N4" />
+
+        <Socket UniversalName="N5" LocalizedName="N5" />
+
+        <Socket UniversalName="N6" LocalizedName="N6" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="Not in Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="11" UniversalName="Wieland 5way" LocalizedName="Wieland/5ch">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N1" LocalizedName="N1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="N2" LocalizedName="N2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N3" LocalizedName="N3" />
+
+        <Socket UniversalName="L4" LocalizedName="L4" />
+
+        <Socket UniversalName="N4" LocalizedName="N4" />
+
+        <Socket UniversalName="L5" LocalizedName="L5" />
+
+        <Socket UniversalName="N5" LocalizedName="N5" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="11" UniversalName="Wieland 4way" LocalizedName="Wieland/4ch">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N1" LocalizedName="N1" />
+
+        <Socket UniversalName="L2" LocalizedName="L2" />
+
+        <Socket UniversalName="N2" LocalizedName="N2" />
+
+        <Socket UniversalName="L3" LocalizedName="L3" />
+
+        <Socket UniversalName="N3" LocalizedName="N3" />
+
+        <Socket UniversalName="L4" LocalizedName="L4" />
+
+        <Socket UniversalName="N4" LocalizedName="N4" />
+
+        <Socket UniversalName="Not In Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="Not In Use" LocalizedName="NIU" />
+
+        <Socket UniversalName="PE" LocalizedName="PE" />
+
+    </Entry>    
+
+    <Entry SocketPatchCount="25" UniversalName="LK25" LocalizedName="LK-25 8 channel">
+
+    </Entry>
+
+    <Entry SocketPatchCount="37" UniversalName="LK37" LocalizedName="LK-37 12 channel">
+
+    </Entry>
+
+    <Entry SocketPatchCount="54" UniversalName="LK54" LocalizedName="LK-54 16 channel">
+
+    </Entry> 
+
+    <Entry SocketPatchCount="150" UniversalName="LK150" LocalizedName="LK-150 48 channel">
+
+    </Entry>   
+
+
+    <Entry SocketPatchCount="4" UniversalName="RJ11" LocalizedName="RJ11">
+
+    </Entry>
+
+    <Entry SocketPatchCount="21" UniversalName="SCART" LocalizedName="SCART connector">
+
+    </Entry>
+
+
+
+    <Entry SocketPatchCount="5" UniversalName="SVIDEO" LocalizedName="SVIDEO">
+
+    </Entry>
+
+    <Entry SocketPatchCount="20" UniversalName="EDAC20" LocalizedName="EDAC 20-pin">
+
+    </Entry>
+
+    <Entry SocketPatchCount="38" UniversalName="EDAC38" LocalizedName="EDAC 38-pin">
+
+    </Entry>
+
+    <Entry SocketPatchCount="56" UniversalName="EDAC56" LocalizedName="EDAC 56-pin">
+
+    </Entry>
+
+    <Entry SocketPatchCount="90" UniversalName="EDAC90" LocalizedName="EDAC 90-pin">
+
+    </Entry>
+
+    <Entry SocketPatchCount="120" UniversalName="EDAC120" LocalizedName="EDAC 120-pin">
+
+    </Entry>
+
+    <Entry SocketPatchCount="96" UniversalName="DL96" LocalizedName="DL 96-pin">
+
+    </Entry>
+
+    <Entry SocketPatchCount="1" UniversalName="LCDUP" LocalizedName="Fiber optic LC DUPLEX-type">
+
+    </Entry>
+
+    <Entry SocketPatchCount="1" UniversalName="SCDUP" LocalizedName="Fiber optic SC DUPLEX-type">
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="SC" LocalizedName="Fiber optic SC-type">
+
+    </Entry>
+
+    <Entry SocketPatchCount="5" UniversalName="ST" LocalizedName="Fiber optic ST-type">
+
+    </Entry>
+
+    <Entry SocketPatchCount="8" UniversalName="CACOM-8" LocalizedName="CA-COM 8 pin speaker">
+
+    </Entry>
+
+    <Entry SocketPatchCount="1" UniversalName="N-con" LocalizedName="N-type connector">
+
+    </Entry>
+
+    <Entry SocketPatchCount="1" UniversalName="F-con" LocalizedName="F- type connector">
+
+    </Entry>
+
+    <Entry SocketPatchCount="2" UniversalName="DIN 56905" LocalizedName="Eberl">
+
+        <Socket UniversalName="L1" LocalizedName="L1" />
+
+        <Socket UniversalName="N1" LocalizedName="N1" />
+
+    </Entry>
+
+    <Entry SocketPatchCount="1" UniversalName="XLROptical1" LocalizedName="Optical 1-XLR">
+
+
+    </Entry>
+
+    <Entry SocketPatchCount="2" UniversalName="XLROptical2" LocalizedName="Optical 2-XLR">
+
+
+    </Entry>
+
+    <Entry SocketPatchCount="4" UniversalName="XLROptical4" LocalizedName="Optical 4-XLR">
+
+
+    </Entry>
+
+    <Entry SocketPatchCount="12" UniversalName="XLROptical12" LocalizedName="Optical 12-XLR">
+
+
+    </Entry>
+
+    <Entry SocketPatchCount="32" UniversalName="XLROptical32" LocalizedName="Optical 32-XLR">
+
+
+    </Entry>
+
+    <Entry SocketPatchCount="2" UniversalName="SpeakerTwist2" LocalizedName="Speaker Twist 2">
+
+
+    </Entry>
+
+    <Entry SocketPatchCount="4" UniversalName="SpeakerTwist4" LocalizedName="Speaker Twist 4">
+
+
+    </Entry>
+
+    <Entry SocketPatchCount="8" UniversalName="SpeakerTwist8" LocalizedName="Speaker Twist 8">
+
+
+    </Entry>
+
+</Entries>
+
